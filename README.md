@@ -18,7 +18,7 @@ Open your browser dev tools and go to the console tab ( for chrome/edge/brave pr
 <img src="/Images/console tab.jpeg" width="1200"/>
 
 ## Step 3:
-copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/link%20extracter.js) and click enter
+copy and paste this [code](/link extracter.js) and click enter
 
 <img src="/Images/link extracter copy and paste.png" width="1200"/>
 
