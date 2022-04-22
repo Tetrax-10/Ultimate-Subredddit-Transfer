@@ -18,7 +18,7 @@ Open your browser dev tools and go to the console tab ( for chrome/edge/brave pr
 <img src="/Images/console tab.jpeg" width="1200"/>
 
 ## Step 3:
-copy and paste this [code](/link extracter.js) and click enter
+copy and paste this [code](https://github.com/Tetrax-10/Ultimate-Subredddit-Transfer/blob/main/link%20extracter.js) and click enter
 
 <img src="/Images/link extracter copy and paste.png" width="1200"/>
 
@@ -46,7 +46,7 @@ This is how the generated [link](https://old.reddit.com/r/Android+AndroidOnWindo
 <img src="/Images/paste link in new browser.png" width="1200"/>
 
 ## Step 7:
-Copy and Paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20subscriber.js) in the console tab and click enter (in Second browser/ incognito tab). If you have multiple links do this same step in all those links (new tabs).
+Copy and Paste this [code](https://github.com/Tetrax-10/Ultimate-Subredddit-Transfer/blob/main/auto%20subscriber.js) in the console tab and click enter (in Second browser/ incognito tab). If you have multiple links do this same step in all those links (new tabs).
 
 <img src="/Images/link extracter.gif" width="1200"/>
 
@@ -64,7 +64,7 @@ open your browser dev tools and go to the console tab ( for chrome/edge/brave pr
 <img src="/Images/console tab.jpeg" width="1200"/>
 
 ## Step 3:
-copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20unsubscriber.js) and click enter
+copy and paste this [code](https://github.com/Tetrax-10/Ultimate-Subredddit-Transfer/blob/main/auto%20unsubscriber.js) and click enter
 
 <img src="/Images/unsubscribe all subreddits.gif" width="1200"/>
 
