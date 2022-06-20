@@ -5,6 +5,10 @@ This repository code helps you to Transfer all your 1000 and 1000 of subscribed 
 
 ___
 
+# Demo
+
+<img src="/Images/link extracter.gif" width="1200"/>
+
 # Guide to Transfer your subreddits and users
 
 All your subscribed ( joined ) subreddits and users will be transferred to your new or another account. Don't worry it copies them not moves.
