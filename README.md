@@ -1,3 +1,5 @@
+# ⚠️ I recommended using [reddit-backup-restore](https://github.com/Tetrax-10/reddit-backup-restore)
+
 # Ultimate-Subredddit-Transfer
 This repository code helps you to Transfer all your 1000 and 1000 of subscribed ( joined ) subredddit and users to your new account or another account without API and Secret API Key and also helps you to unsubsrribe ( leave ) all of them at once with ONE CLICK !
 
